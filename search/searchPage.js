@@ -14,7 +14,7 @@ const getSearchResults = () => {
       method: "GET",
       headers: {
         "x-rapidapi-host": "youtube138.p.rapidapi.com",
-        "x-rapidapi-key": "7f1c3f8cbfmsh18240022b863e16p12dcc7jsne705922b702c",
+        "x-rapidapi-key": "8219facd7amshd73877b102f1cb9p1be75djsne48b08de4390",
       },
     },
   );
